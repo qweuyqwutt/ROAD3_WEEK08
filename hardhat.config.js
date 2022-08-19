@@ -26,7 +26,7 @@ module.exports = {
   solidity: "0.8.4",
   networks: {
     
-    "optimism": {ea0a6399d2ffac5747dfa895967a33083df1e9025b0a7a" ]
+    "optimism": {" ]
     }
   }
 };
